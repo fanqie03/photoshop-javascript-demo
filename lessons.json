@@ -1,0 +1,12 @@
+[
+{
+"title":"How to Script ps",
+"id":0,
+"todo":["read files from json","load external JSON library"]
+},
+{
+"title":"How to Script ps2",
+"id":1,
+"todo":["read files from json2","load external JSON library2"]
+}
+]
