@@ -1,4 +1,4 @@
-﻿// Learn how to change text
+// Learn how to change text
 // How to save JPEG
 // How to read JSON
 
@@ -10,7 +10,7 @@
     
     for (var i = 0; i  < lessons.length; i++){
         var lesson = lessons[i];
-        processLessons(lesson);
+        processLesson(lesson);
     }
 })();
 
